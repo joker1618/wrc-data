@@ -1,0 +1,6 @@
+entityID:java.lang.Long
+nation:xxx.joker.apps.wrc.bomber.dl.entities.WrcNation
+rallyID:java.lang.Long
+seasonID:java.lang.Long
+winner:xxx.joker.apps.wrc.bomber.dl.enums.WrcDriver
+creationTm:xxx.joker.libs.core.datetime.JkDateTime

@@ -1,0 +1,4 @@
+entityID:java.lang.Long
+name:java.lang.String
+code:java.lang.String
+creationTm:xxx.joker.libs.core.datetime.JkDateTime

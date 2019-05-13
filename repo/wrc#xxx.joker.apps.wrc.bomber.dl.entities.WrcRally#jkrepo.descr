@@ -1,0 +1,5 @@
+entityID:java.lang.Long
+nation:xxx.joker.apps.wrc.bomber.dl.entities.WrcNation
+seasonID:java.lang.Long
+matches:java.util.List
+creationTm:xxx.joker.libs.core.datetime.JkDateTime
