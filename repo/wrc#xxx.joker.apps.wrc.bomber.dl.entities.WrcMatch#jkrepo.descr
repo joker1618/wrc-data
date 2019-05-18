@@ -1,6 +1,12 @@
 entityID:java.lang.Long
 nation:xxx.joker.apps.wrc.bomber.dl.entities.WrcNation
-rallyID:java.lang.Long
 seasonID:java.lang.Long
+rallyID:java.lang.Long
+stageProgrInRally:int
+stage:xxx.joker.apps.wrc.bomber.dl.entities.WrcStage
 winner:xxx.joker.apps.wrc.bomber.dl.enums.WrcDriver
+carFede:xxx.joker.apps.wrc.bomber.dl.entities.WrcCar
+carBomber:xxx.joker.apps.wrc.bomber.dl.entities.WrcCar
+weather:xxx.joker.apps.wrc.bomber.dl.entities.WrcWeather
+time:xxx.joker.apps.wrc.bomber.dl.entities.WrcTime
 creationTm:xxx.joker.libs.core.datetime.JkDateTime
