@@ -1,0 +1,6 @@
+entityID:java.lang.Long
+teamFede:java.lang.String
+golFede:int
+teamBomber:java.lang.String
+golBomber:int
+creationTm:xxx.joker.libs.core.datetime.JkDateTime
