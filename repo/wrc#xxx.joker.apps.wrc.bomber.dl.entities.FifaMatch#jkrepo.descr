@@ -3,5 +3,4 @@ teamFede:java.lang.String
 golFede:int
 teamBomber:java.lang.String
 golBomber:int
-matchCounter:int
 creationTm:xxx.joker.libs.core.datetime.JkDateTime
