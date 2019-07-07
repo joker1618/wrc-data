@@ -1,0 +1,8 @@
+entityID:java.lang.Long
+nation:xxx.joker.apps.wrc.bomber.dl.entities.WrcNation
+name:java.lang.String
+num:int
+length:int
+specialStage:boolean
+surface:xxx.joker.apps.wrc.bomber.dl.entities.WrcSurface
+creationTm:xxx.joker.libs.core.datetime.JkDateTime

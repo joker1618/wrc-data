@@ -1,0 +1,4 @@
+entityID:java.lang.Long
+finished:boolean
+rallyList:java.util.List
+creationTm:xxx.joker.libs.core.datetime.JkDateTime
