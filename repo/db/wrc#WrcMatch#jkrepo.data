@@ -1,3 +1,4 @@
+entityId|nation|seasonID|rallyID|stageProgrInRally|stage|winner|carFede|carBomber|weather|time|creationTm
 17||15|16|0||FEDE|||CLEAR_SKY|DAWN|2019-05-10T23:25:06.665
 18||15|16|1||FEDE|||CLEAR_SKY|DAWN|2019-05-10T23:25:06.665
 19||15|16|2||BOMBER|||CLEAR_SKY|DAWN|2019-05-10T23:25:06.666
