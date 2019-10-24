@@ -1,0 +1,7 @@
+fieldName|fieldTypeName|collTypeName|id|pk|stringNotNull
+entityId|java.lang.Long||true|false|false
+creationTm|xxx.joker.libs.core.datetime.JkDateTime||false|false|false
+nation|xxx.joker.apps.wrc.bomber.dl.entities.WrcNation||false|false|false
+matches|java.util.List|xxx.joker.apps.wrc.bomber.dl.entities.WrcMatch|false|false|false
+seasonID|java.lang.Long||false|true|false
+rallyProgrInSeason|java.lang.Integer||false|true|false

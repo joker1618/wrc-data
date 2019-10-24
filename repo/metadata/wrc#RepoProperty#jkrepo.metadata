@@ -1,0 +1,5 @@
+fieldName|fieldTypeName|collTypeName|id|pk|stringNotNull
+entityId|java.lang.Long||true|false|false
+creationTm|xxx.joker.libs.core.datetime.JkDateTime||false|false|false
+key|java.lang.String||false|true|true
+value|java.lang.String||false|false|true

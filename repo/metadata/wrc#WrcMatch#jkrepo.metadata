@@ -1,0 +1,13 @@
+fieldName|fieldTypeName|collTypeName|id|pk|stringNotNull
+entityId|java.lang.Long||true|false|false
+creationTm|xxx.joker.libs.core.datetime.JkDateTime||false|false|false
+nation|xxx.joker.apps.wrc.bomber.dl.entities.WrcNation||false|false|false
+stage|xxx.joker.apps.wrc.bomber.dl.entities.WrcStage||false|false|false
+winner|xxx.joker.apps.wrc.bomber.dl.enums.WrcDriver||false|false|false
+carFede|xxx.joker.apps.wrc.bomber.dl.entities.WrcCar||false|false|false
+carBomber|xxx.joker.apps.wrc.bomber.dl.entities.WrcCar||false|false|false
+weather|xxx.joker.apps.wrc.bomber.dl.enums.WrcWeather||false|false|false
+time|xxx.joker.apps.wrc.bomber.dl.enums.WrcTime||false|false|false
+seasonID|java.lang.Long||false|true|false
+rallyID|java.lang.Long||false|true|false
+stageProgrInRally|java.lang.Integer||false|true|false

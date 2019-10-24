@@ -1,0 +1,8 @@
+fieldName|fieldTypeName|collTypeName|id|pk|stringNotNull
+entityId|java.lang.Long||true|false|false
+creationTm|xxx.joker.libs.core.datetime.JkDateTime||false|false|false
+path|java.nio.file.Path||false|false|false
+name|java.lang.String||false|true|true
+tags|xxx.joker.libs.datalayer.entities.RepoTags||false|true|false
+md5|java.lang.String||false|false|true
+type|xxx.joker.libs.datalayer.entities.RepoResourceType||false|false|false

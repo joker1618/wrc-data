@@ -1,0 +1,10 @@
+fieldName|fieldTypeName|collTypeName|id|pk|stringNotNull
+entityId|java.lang.Long||true|false|false
+creationTm|xxx.joker.libs.core.datetime.JkDateTime||false|false|false
+nation|xxx.joker.apps.wrc.bomber.dl.entities.WrcNation||false|false|false
+name|java.lang.String||false|false|true
+length|int||false|false|false
+specialStage|boolean||false|false|false
+surface|xxx.joker.apps.wrc.bomber.dl.entities.WrcSurface||false|false|false
+nationName|java.lang.String||false|true|true
+num|int||false|true|false
