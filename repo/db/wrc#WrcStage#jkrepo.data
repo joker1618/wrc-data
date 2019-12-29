@@ -1,68 +1,68 @@
-entityId|nationName|nation|name|num|length|specialStage|surface|creationTm
-93|Argentina||Soconcho|0|7910|FALSE|GRAVEL:1.0|2019-05-18T12:30:08.564
-94|Argentina||El Resposo|1|1101|FALSE|GRAVEL:1.0|2019-05-18T12:30:08.564
-95|Argentina||Ischilin|2|7060|FALSE|GRAVEL:1.0|2019-05-18T12:30:08.565
-96|Argentina||El Condor|3|3890|FALSE|GRAVEL:1.0|2019-05-18T12:30:08.566
-97|Argentina||Fernet Branca|4|6040|TRUE|GRAVEL:1.0|2019-05-18T12:30:08.568
-140|Australia|||0|0|FALSE|TARMAC:1.0|2019-05-18T12:30:08.596
-141|Australia|||1|0|FALSE|TARMAC:1.0|2019-05-18T12:30:08.597
-142|Australia|||2|0|FALSE|TARMAC:1.0|2019-05-18T12:30:08.598
-143|Australia|||3|0|FALSE|TARMAC:1.0|2019-05-18T12:30:08.599
-144|Australia|||4|0|TRUE|TARMAC:1.0|2019-05-18T12:30:08.599
-123|China|||0|0|FALSE|TARMAC:1.0|2019-05-18T12:30:08.585
-124|China|||1|0|FALSE|TARMAC:1.0|2019-05-18T12:30:08.586
-125|China|||2|0|FALSE|TARMAC:1.0|2019-05-18T12:30:08.586
-113|Finland||Ounipohja|0|10630|FALSE|GRAVEL:1.0|2019-05-18T12:30:08.58
-114|Finland||Horrka|1|0|FALSE|GRAVEL:1.0|2019-05-18T12:30:08.58
-115|Finland|||2|0|FALSE|GRAVEL:1.0|2019-05-18T12:30:08.581
-116|Finland|||3|0|FALSE|GRAVEL:1.0|2019-05-18T12:30:08.581
-117|Finland|||4|0|TRUE|GRAVEL:1.0|2019-05-18T12:30:08.582
-126|France|||0|0|FALSE|TARMAC:1.0|2019-05-18T12:30:08.587
-127|France|||1|0|FALSE|TARMAC:1.0|2019-05-18T12:30:08.588
-128|France|||2|0|FALSE|TARMAC:1.0|2019-05-18T12:30:08.588
-129|France|||3|0|FALSE|TARMAC:1.0|2019-05-18T12:30:08.589
-118|Germany|||0|0|FALSE|TARMAC:1.0|2019-05-18T12:30:08.582
-119|Germany|||1|0|FALSE|TARMAC:1.0|2019-05-18T12:30:08.583
-120|Germany|||2|0|FALSE|TARMAC:1.0|2019-05-18T12:30:08.584
-121|Germany|||3|0|FALSE|TARMAC:1.0|2019-05-18T12:30:08.584
-122|Germany|||4|0|TRUE|TARMAC:1.0|2019-05-18T12:30:08.585
-103|Italy||Olmedo Monte Baranta|0|6600|FALSE|GRAVEL:1.0|2019-05-18T12:30:08.572
-104|Italy||Sagama|1|4800|FALSE|GRAVEL:1.0|2019-05-18T12:30:08.572
-105|Italy||Monte Lerno|2|4600|FALSE|GRAVEL:1.0|2019-05-18T12:30:08.572
-106|Italy||Grighine Nord|3|4850|FALSE|GRAVEL:1.0|2019-05-18T12:30:08.574
-107|Italy||Ittiri Arena|4|1440|TRUE|GRAVEL:1.0|2019-05-18T12:30:08.577
-88|Mexico||Los Mexicanos|0|4020|FALSE|GRAVEL:1.0|2019-05-18T12:30:08.56
-89|Mexico||Las Minas|1|5030|FALSE|GRAVEL:1.0|2019-05-18T12:30:08.561
-90|Mexico||Ibarilla|2|8250|FALSE|GRAVEL:1.0|2019-05-18T12:30:08.562
-91|Mexico||El Brinco|3|3350|FALSE|GRAVEL:1.0|2019-05-18T12:30:08.562
-92|Mexico||Autodromo de Leon|4|2300|TRUE|GRAVEL:0.2--TARMAC:0.8|2019-05-18T12:30:08.563
-78|Monaco||Entrevaux|0|4320|FALSE|TARMAC:1.0|2019-05-18T12:30:08.555
-79|Monaco||Corps|1|6050|FALSE|SNOW:0.3--TARMAC:0.7|2019-05-18T12:30:08.555
-80|Monaco||La Baite-Neuve|2|5590|FALSE|SNOW:0.7--TARMAC:0.3|2019-05-18T12:30:08.556
-81|Monaco||Peira Cava|3|8150|FALSE|TARMAC:1.0|2019-05-18T12:30:08.556
-82|Monaco||Col de l'Orme|4|6170|FALSE|TARMAC:1.0|2019-05-18T12:30:08.557
-108|Poland||Gorklo|0|8270|FALSE|GRAVEL:0.8--TARMAC:0.2|2019-05-18T12:30:08.577
-109|Poland||Swietajno|1|7180|FALSE|GRAVEL:0.8--TARMAC:0.2|2019-05-18T12:30:08.578
-110|Poland||Wieliczki|2|5200|FALSE|GRAVEL:1.0|2019-05-18T12:30:08.578
-111|Poland||Baranowo|3|6730|FALSE|GRAVEL:0.9--TARMAC:0.1|2019-05-18T12:30:08.579
-112|Poland||Mikolajki Arena|4|2500|TRUE|TARMAC:1.0|2019-05-18T12:30:08.579
-98|Portugal||Ponte de Lima|0|6430|FALSE|GRAVEL:0.8--TARMAC:0.2|2019-05-18T12:30:08.568
-99|Portugal||Viano do Castelo|1|6280|FALSE|GRAVEL:1.0|2019-05-18T12:30:08.568
-100|Portugal||Fridao|2|9670|FALSE|GRAVEL:0.9--TARMAC:0.1|2019-05-18T12:30:08.569
-101|Portugal||Fafe|3|3850|FALSE|GRAVEL:0.9--TARMAC:0.1|2019-05-18T12:30:08.569
-102|Portugal||Lousada|4|3340|TRUE|GRAVEL:0.4--TARMAC:0.6|2019-05-18T12:30:08.57
-130|Spain|||0|0|FALSE|TARMAC:1.0|2019-05-18T12:30:08.589
-131|Spain|||1|0|FALSE|TARMAC:1.0|2019-05-18T12:30:08.59
-132|Spain|||2|0|FALSE|TARMAC:1.0|2019-05-18T12:30:08.591
-133|Spain|||3|0|FALSE|TARMAC:1.0|2019-05-18T12:30:08.593
-134|Spain|||4|0|TRUE|TARMAC:1.0|2019-05-18T12:30:08.593
-83|Sweden||Torsby|0|6000|FALSE|SNOW:1.0|2019-05-18T12:30:08.557
-84|Sweden||Kirkenaer|1|3380|FALSE|SNOW:1.0|2019-05-18T12:30:08.558
-85|Sweden||Fredriksberg|2|5500|FALSE|SNOW:1.0|2019-05-18T12:30:08.559
-86|Sweden||Vargasen|3|11610|FALSE|SNOW:0.7--GRAVEL:0.3|2019-05-18T12:30:08.559
-87|Sweden||Karlstad|4|3800|TRUE|SNOW:1.0|2019-05-18T12:30:08.56
-135|United Kingdom|||0|0|FALSE|TARMAC:1.0|2019-05-18T12:30:08.593
-136|United Kingdom|||1|0|FALSE|TARMAC:1.0|2019-05-18T12:30:08.594
-137|United Kingdom|||2|0|FALSE|TARMAC:1.0|2019-05-18T12:30:08.595
-138|United Kingdom|||3|0|FALSE|TARMAC:1.0|2019-05-18T12:30:08.595
-139|United Kingdom|||4|0|TRUE|TARMAC:1.0|2019-05-18T12:30:08.596
+entityId|creationTm|_epk|nation|name|length|specialStage|surface|nationName|num
+78|2019-05-18T12:30:08.555|Monaco-0|[1,Monaco]|Entrevaux|4320|false|TARMAC:1.0|Monaco|0
+79|2019-05-18T12:30:08.555|Monaco-1|[1,Monaco]|Corps|6050|false|SNOW:0.3--TARMAC:0.7|Monaco|1
+80|2019-05-18T12:30:08.556|Monaco-2|[1,Monaco]|La Baite-Neuve|5590|false|SNOW:0.7--TARMAC:0.3|Monaco|2
+81|2019-05-18T12:30:08.556|Monaco-3|[1,Monaco]|Peira Cava|8150|false|TARMAC:1.0|Monaco|3
+82|2019-05-18T12:30:08.557|Monaco-4|[1,Monaco]|Col de l'Orme|6170|false|TARMAC:1.0|Monaco|4
+83|2019-05-18T12:30:08.557|Sweden-0|[2,Sweden]|Torsby|6000|false|SNOW:1.0|Sweden|0
+84|2019-05-18T12:30:08.558|Sweden-1|[2,Sweden]|Kirkenaer|3380|false|SNOW:1.0|Sweden|1
+85|2019-05-18T12:30:08.559|Sweden-2|[2,Sweden]|Fredriksberg|5500|false|SNOW:1.0|Sweden|2
+86|2019-05-18T12:30:08.559|Sweden-3|[2,Sweden]|Vargasen|11610|false|SNOW:0.7--GRAVEL:0.3|Sweden|3
+87|2019-05-18T12:30:08.56|Sweden-4|[2,Sweden]|Karlstad|3800|true|SNOW:1.0|Sweden|4
+88|2019-05-18T12:30:08.56|Mexico-0|[3,Mexico]|Los Mexicanos|4020|false|GRAVEL:1.0|Mexico|0
+89|2019-05-18T12:30:08.561|Mexico-1|[3,Mexico]|Las Minas|5030|false|GRAVEL:1.0|Mexico|1
+90|2019-05-18T12:30:08.562|Mexico-2|[3,Mexico]|Ibarilla|8250|false|GRAVEL:1.0|Mexico|2
+91|2019-05-18T12:30:08.562|Mexico-3|[3,Mexico]|El Brinco|3350|false|GRAVEL:1.0|Mexico|3
+92|2019-05-18T12:30:08.563|Mexico-4|[3,Mexico]|Autodromo de Leon|2300|true|TARMAC:0.8--GRAVEL:0.2|Mexico|4
+93|2019-05-18T12:30:08.564|Argentina-0|[4,Argentina]|Soconcho|7910|false|GRAVEL:1.0|Argentina|0
+94|2019-05-18T12:30:08.564|Argentina-1|[4,Argentina]|El Resposo|1101|false|GRAVEL:1.0|Argentina|1
+95|2019-05-18T12:30:08.565|Argentina-2|[4,Argentina]|Ischilin|7060|false|GRAVEL:1.0|Argentina|2
+96|2019-05-18T12:30:08.566|Argentina-3|[4,Argentina]|El Condor|3890|false|GRAVEL:1.0|Argentina|3
+97|2019-05-18T12:30:08.568|Argentina-4|[4,Argentina]|Fernet Branca|6040|true|GRAVEL:1.0|Argentina|4
+98|2019-05-18T12:30:08.568|Portugal-0|[5,Portugal]|Ponte de Lima|6430|false|TARMAC:0.2--GRAVEL:0.8|Portugal|0
+99|2019-05-18T12:30:08.568|Portugal-1|[5,Portugal]|Viano do Castelo|6280|false|GRAVEL:1.0|Portugal|1
+100|2019-05-18T12:30:08.569|Portugal-2|[5,Portugal]|Fridao|9670|false|TARMAC:0.1--GRAVEL:0.9|Portugal|2
+101|2019-05-18T12:30:08.569|Portugal-3|[5,Portugal]|Fafe|3850|false|TARMAC:0.1--GRAVEL:0.9|Portugal|3
+102|2019-05-18T12:30:08.57|Portugal-4|[5,Portugal]|Lousada|3340|true|TARMAC:0.6--GRAVEL:0.4|Portugal|4
+103|2019-05-18T12:30:08.572|Italy-0|[6,Italy]|Olmedo Monte Baranta|6600|false|GRAVEL:1.0|Italy|0
+104|2019-05-18T12:30:08.572|Italy-1|[6,Italy]|Sagama|4800|false|GRAVEL:1.0|Italy|1
+105|2019-05-18T12:30:08.572|Italy-2|[6,Italy]|Monte Lerno|4600|false|GRAVEL:1.0|Italy|2
+106|2019-05-18T12:30:08.574|Italy-3|[6,Italy]|Grighine Nord|4850|false|GRAVEL:1.0|Italy|3
+107|2019-05-18T12:30:08.577|Italy-4|[6,Italy]|Ittiri Arena|1440|true|GRAVEL:1.0|Italy|4
+108|2019-05-18T12:30:08.577|Poland-0|[7,Poland]|Gorklo|8270|false|TARMAC:0.2--GRAVEL:0.8|Poland|0
+109|2019-05-18T12:30:08.578|Poland-1|[7,Poland]|Swietajno|7180|false|TARMAC:0.2--GRAVEL:0.8|Poland|1
+110|2019-05-18T12:30:08.578|Poland-2|[7,Poland]|Wieliczki|5200|false|GRAVEL:1.0|Poland|2
+111|2019-05-18T12:30:08.579|Poland-3|[7,Poland]|Baranowo|6730|false|TARMAC:0.1--GRAVEL:0.9|Poland|3
+112|2019-05-18T12:30:08.579|Poland-4|[7,Poland]|Mikolajki Arena|2500|true|TARMAC:1.0|Poland|4
+113|2019-05-18T12:30:08.58|Finland-0|[8,Finland]|Ounipohja|10630|false|GRAVEL:1.0|Finland|0
+114|2019-05-18T12:30:08.58|Finland-1|[8,Finland]|Horrka|0|false|GRAVEL:1.0|Finland|1
+115|2019-05-18T12:30:08.581|Finland-2|[8,Finland]||0|false|GRAVEL:1.0|Finland|2
+116|2019-05-18T12:30:08.581|Finland-3|[8,Finland]||0|false|GRAVEL:1.0|Finland|3
+117|2019-05-18T12:30:08.582|Finland-4|[8,Finland]||0|true|GRAVEL:1.0|Finland|4
+118|2019-05-18T12:30:08.582|Germany-0|[9,Germany]||0|false|TARMAC:1.0|Germany|0
+119|2019-05-18T12:30:08.583|Germany-1|[9,Germany]||0|false|TARMAC:1.0|Germany|1
+120|2019-05-18T12:30:08.584|Germany-2|[9,Germany]||0|false|TARMAC:1.0|Germany|2
+121|2019-05-18T12:30:08.584|Germany-3|[9,Germany]||0|false|TARMAC:1.0|Germany|3
+122|2019-05-18T12:30:08.585|Germany-4|[9,Germany]||0|true|TARMAC:1.0|Germany|4
+123|2019-05-18T12:30:08.585|China-0|[10,China]||0|false|TARMAC:1.0|China|0
+124|2019-05-18T12:30:08.586|China-1|[10,China]||0|false|TARMAC:1.0|China|1
+125|2019-05-18T12:30:08.586|China-2|[10,China]||0|false|TARMAC:1.0|China|2
+126|2019-05-18T12:30:08.587|France-0|[11,France]||0|false|TARMAC:1.0|France|0
+127|2019-05-18T12:30:08.588|France-1|[11,France]||0|false|TARMAC:1.0|France|1
+128|2019-05-18T12:30:08.588|France-2|[11,France]||0|false|TARMAC:1.0|France|2
+129|2019-05-18T12:30:08.589|France-3|[11,France]||0|false|TARMAC:1.0|France|3
+130|2019-05-18T12:30:08.589|Spain-0|[12,Spain]||0|false|TARMAC:1.0|Spain|0
+131|2019-05-18T12:30:08.59|Spain-1|[12,Spain]||0|false|TARMAC:1.0|Spain|1
+132|2019-05-18T12:30:08.591|Spain-2|[12,Spain]||0|false|TARMAC:1.0|Spain|2
+133|2019-05-18T12:30:08.593|Spain-3|[12,Spain]||0|false|TARMAC:1.0|Spain|3
+134|2019-05-18T12:30:08.593|Spain-4|[12,Spain]||0|true|TARMAC:1.0|Spain|4
+135|2019-05-18T12:30:08.593|United Kingdom-0|[13,United Kingdom]||0|false|TARMAC:1.0|United Kingdom|0
+136|2019-05-18T12:30:08.594|United Kingdom-1|[13,United Kingdom]||0|false|TARMAC:1.0|United Kingdom|1
+137|2019-05-18T12:30:08.595|United Kingdom-2|[13,United Kingdom]||0|false|TARMAC:1.0|United Kingdom|2
+138|2019-05-18T12:30:08.595|United Kingdom-3|[13,United Kingdom]||0|false|TARMAC:1.0|United Kingdom|3
+139|2019-05-18T12:30:08.596|United Kingdom-4|[13,United Kingdom]||0|true|TARMAC:1.0|United Kingdom|4
+140|2019-05-18T12:30:08.596|Australia-0|[14,Australia]||0|false|TARMAC:1.0|Australia|0
+141|2019-05-18T12:30:08.597|Australia-1|[14,Australia]||0|false|TARMAC:1.0|Australia|1
+142|2019-05-18T12:30:08.598|Australia-2|[14,Australia]||0|false|TARMAC:1.0|Australia|2
+143|2019-05-18T12:30:08.599|Australia-3|[14,Australia]||0|false|TARMAC:1.0|Australia|3
+144|2019-05-18T12:30:08.599|Australia-4|[14,Australia]||0|true|TARMAC:1.0|Australia|4
