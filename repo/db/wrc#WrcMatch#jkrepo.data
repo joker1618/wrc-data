@@ -242,3 +242,7 @@ entityId|creationTm|_epk|nation|stage|winner|carFede|carBomber|weather|time|seas
 428|2019-12-29T20:32:10.998|420-426-1|[13,United Kingdom]|[136,United Kingdom-1]|FEDE|[75,Citroen DS 3]|[75,Citroen DS 3]|CLEAR_SKY|DAWN|420|426|1
 429|2019-12-29T20:26:53.842|420-426-2|[13,United Kingdom]|[137,United Kingdom-2]|BOMBER|[75,Citroen DS 3]|[75,Citroen DS 3]|CLEAR_SKY|DAWN|420|426|2
 430|2019-12-29T20:32:10.999|420-426-3|[13,United Kingdom]|[138,United Kingdom-3]|FEDE|[75,Citroen DS 3]|[75,Citroen DS 3]|CLEAR_SKY|DAWN|420|426|3
+432|2019-12-29T22:49:41.14|420-431-0|[12,Spain]|[130,Spain-0]|FEDE|[73,Ford Fiesta RS]|[73,Ford Fiesta RS]|CLEAR_SKY|DAWN|420|431|0
+433|2019-12-29T22:35:15.014|420-431-1|[12,Spain]|[131,Spain-1]|BOMBER|[73,Ford Fiesta RS]|[73,Ford Fiesta RS]|CLEAR_SKY|DAWN|420|431|1
+434|2019-12-29T22:45:12.395|420-431-2|[12,Spain]|[132,Spain-2]|BOMBER|[73,Ford Fiesta RS]|[73,Ford Fiesta RS]|CLEAR_SKY|DAWN|420|431|2
+435|2019-12-29T22:49:39.443|420-431-3|[12,Spain]|[133,Spain-3]|BOMBER|[73,Ford Fiesta RS]|[73,Ford Fiesta RS]|CLEAR_SKY|DAWN|420|431|3
