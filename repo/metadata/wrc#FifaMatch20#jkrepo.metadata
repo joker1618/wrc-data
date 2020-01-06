@@ -1,0 +1,8 @@
+fieldName|fieldTypeName|collTypeName|id|pk|stringNotNull
+entityId|java.lang.Long||true|false|false
+creationTm|xxx.joker.libs.core.datetime.JkDateTime||false|false|false
+teamFede|java.lang.String||false|false|true
+golFede|int||false|false|false
+teamBomber|java.lang.String||false|false|true
+golBomber|int||false|false|false
+matchCounter|int||false|true|false
